@@ -1,5 +1,7 @@
 # Perfect ITX Hackintosh - Asus Z490-I ROG STRIX + Core i9 10900K + RX 580 8Gb
 
+![About This Mac - Overview](https://github.com/luchina-gabriel/EFI-ASUS-Z490i-ROG-STRIX-Core-i9-10900K-dGPU-RX580-PUBLIC/assets/23700365/e4824657-5a9b-4098-b9ed-1341d4a52145)
+
 # Basic Information
 
 **Latest working macOS**: macOS Ventura (13.5)
