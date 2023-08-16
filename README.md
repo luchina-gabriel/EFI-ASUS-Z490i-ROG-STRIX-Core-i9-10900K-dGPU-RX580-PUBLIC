@@ -25,6 +25,7 @@
 - All features
 
 ## Where to Buy
+- With ME :) (only one setup available)
 
 ## Hackintosh Creator
 - [Gabriel Luchina - Universo Hackintosh](https://luchina.com.br)
@@ -34,3 +35,4 @@
 
 ## Discord - Universo Hackintosh
 - [Access Discord](https://discord.universohackintosh.com.br)
+- 
