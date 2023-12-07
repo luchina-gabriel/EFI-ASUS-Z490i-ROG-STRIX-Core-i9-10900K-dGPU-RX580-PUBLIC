@@ -4,11 +4,11 @@
 
 # Basic Information
 
-**Latest working macOS**: macOS Ventura (13.5)
+**Latest working macOS**: macOS Sonoma (14.1.1)
 <br>
-**Current OpenCore**: 0.9.4
+**Current OpenCore**: 0.9.6
 <br>
-**Release date**: 16/08/2023
+**Release date**: 07/12/2023
 
 # Hackintosh Specifications
 |Item|Description|
@@ -37,4 +37,3 @@
 
 ## Discord - Universo Hackintosh
 - [Access Discord](https://discord.universohackintosh.com.br)
-- 
